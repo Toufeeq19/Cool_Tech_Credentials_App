@@ -34,36 +34,36 @@ To install the project follow these steps:
    
 ### Home Page
 
-![Home Page](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/home%20page.png)
+![Home Page](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/home%20page.png)
 
 ### Login Page
 
-![Login Page](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/login%20page.png)
+![Login Page](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/login%20page.png)
 
 ### Registration Page
 
-![Registration Page](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/registration%20page.png)
+![Registration Page](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/registration%20page.png)
 
 ### Successfully Registering
 
-![Successfully Registering](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/successfully%20registering.png)
+![Successfully Registering](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/successfully%20registering.png)
 
 ### Successfully Logged In
 
-![Successfully Logged In](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/successfully%20logged%20in.png)
+![Successfully Logged In](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/successfully%20logged%20in.png)
 
 ### Viewing Divisions
 
-![Viewing Divisions](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/viewing%20divisions.png)
+![Viewing Divisions](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/viewing%20divisions.png)
 
 ### Example Of Viewing All Accounts
 
-![Example Of Viewing All Accounts](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/example%20of%20viewing%20all%20accounts%20if%20logged%20in%20as%20an%20admin.png)
+![Example Of Viewing All Accounts](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/example%20of%20viewing%20all%20accounts%20if%20logged%20in%20as%20an%20admin.png)
 
 ### Adding New Credentials
 
-![Adding New Credentials](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/adding%20new%20credentials%20-%20normal%20user.png)
+![Adding New Credentials](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/adding%20new%20credentials%20-%20normal%20user.png)
 
 ### Access Denied To New Roles
 
-![Access Denied To New Roles](https://github.com/Toufeeq19/Cool-Tech-Credential-App/blob/main/screenshots/access%20denied%20to%20edit%20roles%20etc%20if%20not%20admin.png)
+![Access Denied To New Roles](https://github.com/Toufeeq19/Cool_Tech_Credentials_App/blob/main/screenshots/access%20denied%20to%20edit%20roles%20etc%20if%20not%20admin.png)
