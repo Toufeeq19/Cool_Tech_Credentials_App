@@ -11,7 +11,7 @@ To install the project follow these steps:
 1. **Download the Code:**
    Clone the repository or download the code to your local machine.
 
-2. **Create an env file**
+2. **Create an env file:**
    Please create a .env file in the server directory with the following variables: 
       DB_URI - please link your database with this variable 
       JWT_TOKEN - please create your own secret token
@@ -30,7 +30,7 @@ To install the project follow these steps:
 5. **Testing roles** 
    Test admin - email: admin@cooltech.com password: admin
    Test manager - email: rassieerasmus@cooltech.com password: bokke
-   Test normal - toufeeqtoffa@cooltech.com password: touf
+   Test normal - toufeeqtoffar@cooltech.com password: touf
    
 ### Home Page
 
