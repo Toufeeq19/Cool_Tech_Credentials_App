@@ -1,0 +1,123 @@
+/*Style the body*/
+body {
+  margin: 0;
+  font-family: sans-serif;
+  padding: 20px;
+  background: #93aaee;
+  font-weight: bolder;
+  text-align: center;
+
+  background-image: url("../src/images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+}
+
+code {
+  font-family: sans-serif, monospace;
+}
+
+/*Table Styling*/
+table {
+  border-collapse: collapse;
+  border: 2px;
+  width: 100%;
+  border-style: solid;
+  border-color: white;
+  color: white;
+}
+th {
+  border: 1px;
+  border-style: solid;
+  padding: 5px;
+}
+td {
+  padding: 5px;
+  border: 1px;
+  border-style: solid;
+}
+
+/*Styling of elements*/
+input {
+  height: 100%;
+  width: 97%;
+}
+
+select {
+  height: 100%;
+  width: 98%;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  color: navy;
+  font-size: 3em;
+  border-radius: 20px;
+  font-weight: bolder;
+}
+
+h3 {
+  text-decoration: underline;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+button {
+  cursor: pointer;
+  width: 100px;
+}
+
+/*Styling of classed*/
+.options-Button {
+  background-color: white;
+  color: navy;
+  font-size: 1.2rem;
+  width: 300px;
+  border: 1px solid white;
+}
+
+.display-Passwords-Button {
+  background-color: #93aaee;
+  color: navy;
+  font-weight: bolder;
+  font-size: 1.1rem;
+  width: 300px;
+  border: 1px solid white;
+}
+
+.headerH3 {
+  font-family: sans-serif;
+}
+
+.gridHeader {
+  display: grid;
+  grid-auto-flow: column;
+  background: #93aaee;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.menuButton {
+  border: 1px solid #93aaee;
+  cursor: pointer;
+  height: 150px;
+  width: 120px;
+}
+
+.headerLogo {
+  height: 150px;
+  width: 300px;
+}
+
+#add-ouDivision-Button {
+  width: 300px;
+  border: 1px solid white;
+}
